@@ -26,7 +26,7 @@ This project is a web-based tool designed to help job applicants generate person
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Cold-Email-Generator.git
-   cd Cold-Email-Generator
+  
 
 
 
